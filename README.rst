@@ -1,17 +1,15 @@
-Google 开源项目风格指南——中文版
+hi-styleguide 开源项目风格指南——中文版
 ================================
 
-* ReadTheDocs 托管地址： `在线阅读最新版本 <https://zh-google-styleguide.readthedocs.io/en/latest/>`_
+* ReadTheDocs 托管地址： `在线阅读最新版本 <https://hi-styleguide.readthedocs.io/zh/latest/>`_
 
-* GitHub 托管地址： `zh-google-styleguide <https://github.com/zh-google-styleguide/zh-google-styleguide>`_
-
-* 离线文档下载地址： `release <https://github.com/zh-google-styleguide/zh-google-styleguide/releases>`_
+* GitHub 托管地址： `hi-styleguide <https://github.com/Dwl2021/hi-styleguide>`_
 
 .. note:: 
 
     **声明**
 
-    本项目并非 Google 官方项目，而是由国内程序员凭热情创建和维护。
+    本项目由内部团体使用，主要参考google/styleguide的中文翻译版本，如有侵权，请联系删除。
 
     如果你关注的是 Google 官方英文版，请移步 `Google Style Guide <https://github.com/google/styleguide>`_ 。
 
@@ -23,22 +21,18 @@ Google 开源项目风格指南——中文版
 
 我们已经发布了七份 **中文版** 的风格指南:
 
-#. `Google C++ 风格指南 <http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/>`_
+#. `Hi C++ 风格指南 <http://hi-styleguide.readthedocs.org/en/latest/hi-cpp-styleguide/>`_
 
-#. `Google Objective-C 风格指南 <http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/>`_
+#. `Hi Objective-C 风格指南 <http://hi-styleguide.readthedocs.org/en/latest/hi-objc-styleguide/>`_
 
-#. `Google Python 风格指南 <http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/>`_
+#. `Hi Python 风格指南 <http://hi-styleguide.readthedocs.org/en/latest/hi-python-styleguide/>`_
 
-#. `Google JavaScript 风格指南 <https://zh-google-styleguide.readthedocs.io/en/latest/google-javascript-styleguide/contents/>`_
+#. `Hi JavaScript 风格指南 <https://hi-styleguide.readthedocs.io/en/latest/hi-javascript-styleguide/contents/>`_
 
-#. `Google Shell 风格指南 <http://zh-google-styleguide.readthedocs.org/en/latest/google-shell-styleguide/>`_
+#. `Hi Shell 风格指南 <http://hi-styleguide.readthedocs.org/en/latest/hi-shell-styleguide/>`_
 
-#. `Google JSON 风格指南 <https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md>`_
+#. `Hi JSON 风格指南 <https://github.com/darcyliu/hi-styleguide/blob/master/JSONStyleGuide.md>`_
 
-#. `Google TypeScript 风格指南 <https://zh-google-styleguide.readthedocs.io/en/latest/google-typescript-styleguide/contents/>`_
+#. `Hi TypeScript 风格指南 <https://hi-styleguide.readthedocs.io/en/latest/hi-typescript-styleguide/contents/>`_
 
 中文版项目采用 reStructuredText 纯文本标记语法，并使用 Sphinx 生成 HTML / CHM / PDF 等文档格式。
-
-* 英文版项目还包含 `cpplint <https://github.com/google/styleguide/tree/gh-pages/cpplint>`_ ——一个用来帮助适应风格准则的工具，以及 `google-c-style.el <https://raw.githubusercontent.com/google/styleguide/gh-pages/google-c-style.el>`_，Google 风格的 Emacs 配置文件。
-
-* 另外，招募志愿者翻译 `JavaScript Style Guide <http://google.github.io/styleguide/javascriptguide.xml>`_ 以及 `XML Document Format Style Guide <http://google.github.io/styleguide/xmlstyle.html>`_ ，有意者请联系 `Yang.Y <https://github.com/yangyubo>`_ 。

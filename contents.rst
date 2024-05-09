@@ -8,11 +8,11 @@
 .. toctree::
 
    index
-   google-cpp-styleguide/contents
-   google-objc-styleguide/contents
-   google-python-styleguide/contents
-   google-shell-styleguide/contents
-   google-javascript-styleguide/contents
-   google-typescript-styleguide/contents
-   google-html-css-styleguide/contents
-   google-java-styleguide/contents
+   hi-cpp-styleguide/contents
+   hi-objc-styleguide/contents
+   hi-python-styleguide/contents
+   hi-shell-styleguide/contents
+   hi-javascript-styleguide/contents
+   hi-typescript-styleguide/contents
+   hi-html-css-styleguide/contents
+   hi-java-styleguide/contents

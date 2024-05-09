@@ -3,7 +3,7 @@
 
 
 import sys, os
-project = u'Google 开源项目风格指南'
+project = u'hi-styleguide 开源项目风格指南'
 copyright = u''
 version = u''
 release = u''
@@ -26,8 +26,8 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 # otherwise, readthedocs.org uses their theme by default, so no need to specify it
 
-html_title = u'Google 开源项目风格指南'
-htmlhelp_basename = 'zh-google-styleguide'
+html_title = u'hi-styleguide 开源项目风格指南'
+htmlhelp_basename = 'hi-styleguide'
 html_add_permalinks = ''
 
 latex_engine = 'xelatex'
@@ -65,7 +65,7 @@ else:
         'preamble' : r'''        \usepackage{ctex}        ''',
     }
 latex_documents = [
-  ('contents', 'zh-google-styleguide.tex', u'Google 开源项目风格指南',
+  ('contents', 'hi-styleguide.tex', u'hi-styleguide 开源项目风格指南',
    u'', 'manual'),
 ]
 
@@ -73,8 +73,8 @@ latex_documents = [
 #Add sponsorship and project information to the template context.
 context = {
     'MEDIA_URL': "/media/",
-    'slug': 'google-styleguide',
-    'name': u'Google 开源项目风格指南',
+    'slug': 'hi-styleguide',
+    'name': u'hi-styleguide 开源项目风格指南',
     'analytics_code': 'None',
 }
 
