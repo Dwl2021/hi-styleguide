@@ -1,4 +1,4 @@
-hi-styleguide 开源项目风格指南——中文版
+hi 开源项目风格指南——中文版
 ================================
 
 * ReadTheDocs 托管地址： `在线阅读最新版本 <https://hi-styleguide.readthedocs.io/zh/latest/>`_

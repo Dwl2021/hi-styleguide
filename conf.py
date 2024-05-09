@@ -26,7 +26,7 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 # otherwise, readthedocs.org uses their theme by default, so no need to specify it
 
-html_title = u'hi-styleguide 开源项目风格指南'
+html_title = u'hi 开源项目风格指南'
 htmlhelp_basename = 'hi-styleguide'
 html_add_permalinks = ''
 
