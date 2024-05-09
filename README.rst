@@ -19,20 +19,15 @@ hi-styleguide 开源项目风格指南——中文版
 
 英文版项目维护的是在 Google 使用的编程风格指南。如果你正在修改的项目源自 Google，你可能会被引导至英文版项目页面，以了解项目所使用的风格。
 
-我们已经发布了七份 **中文版** 的风格指南:
+以下有四份 **中文版** 的风格指南:
 
-#. `Hi C++ 风格指南 <http://hi-styleguide.readthedocs.org/en/latest/hi-cpp-styleguide/>`_
+#. `Hi C++ 风格指南 <https://hi-styleguide.readthedocs.io/zh/latest/hi-cpp-styleguide/contents.html/>`_
 
-#. `Hi Objective-C 风格指南 <http://hi-styleguide.readthedocs.org/en/latest/hi-objc-styleguide/>`_
+#. `Hi Python 风格指南 <https://hi-styleguide.readthedocs.io/zh/latest/hi-python-styleguide/contents.html/>`_
 
-#. `Hi Python 风格指南 <http://hi-styleguide.readthedocs.org/en/latest/hi-python-styleguide/>`_
+#. `Hi Shell 风格指南 <https://hi-styleguide.readthedocs.io/zh/latest/hi-shell-styleguide/contents.html/>`_
 
-#. `Hi JavaScript 风格指南 <https://hi-styleguide.readthedocs.io/en/latest/hi-javascript-styleguide/contents/>`_
+#. `Hi Html 风格指南 <https://hi-styleguide.readthedocs.io/zh/latest/hi-html-css-styleguide/contents.html/>`_
 
-#. `Hi Shell 风格指南 <http://hi-styleguide.readthedocs.org/en/latest/hi-shell-styleguide/>`_
-
-#. `Hi JSON 风格指南 <https://github.com/darcyliu/hi-styleguide/blob/master/JSONStyleGuide.md>`_
-
-#. `Hi TypeScript 风格指南 <https://hi-styleguide.readthedocs.io/en/latest/hi-typescript-styleguide/contents/>`_
 
 中文版项目采用 reStructuredText 纯文本标记语法，并使用 Sphinx 生成 HTML / CHM / PDF 等文档格式。
